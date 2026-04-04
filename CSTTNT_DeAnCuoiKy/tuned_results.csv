@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1-Score,AUC
+RF (Tuned),0.9951,0.9892,1.0,0.9946,0.9999
+SVM (Tuned),1.0,1.0,1.0,1.0,1.0
+GB (Tuned),0.9976,0.9946,1.0,0.9973,0.9999
+kNN (Tuned),1.0,1.0,1.0,1.0,1.0
+MLP (Tuned),1.0,1.0,1.0,1.0,1.0
+Stacking Ensemble,1.0,1.0,1.0,1.0,1.0
